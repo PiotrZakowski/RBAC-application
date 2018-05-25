@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\bin\Debug\BSKProject2.exe.config
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\bin\Debug\BSKProject2.exe
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\bin\Debug\BSKProject2.pdb
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\obj\Debug\BSKProject2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\obj\Debug\BSKProject2.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\obj\Debug\BSKProject2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\obj\Debug\BSKProject2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\obj\Debug\BSKProject2.exe
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\obj\Debug\BSKProject2.pdb
+c:\users\user\documents\visual studio 2017\Projects\BSKProject2\BSKProject2\obj\Debug\BSKProject2.MainPanel.resources
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\bin\Debug\BSKProject2.exe.config
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\obj\Debug\BSKProject2.exe
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\obj\Debug\BSKProject2.pdb
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\bin\Debug\BSKProject2.exe
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\bin\Debug\BSKProject2.pdb
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\obj\Debug\BSKProject2.csprojResolveAssemblyReference.cache
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\obj\Debug\BSKProject2.Form1.resources
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\obj\Debug\BSKProject2.Properties.Resources.resources
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\obj\Debug\BSKProject2.csproj.GenerateResource.Cache
+C:\Users\Sunnivran\Desktop\Studia\Semestr 6\Projekty\BSKproj2\BSKProject2\BSKProject2\obj\Debug\BSKProject2.MainPanel.resources
